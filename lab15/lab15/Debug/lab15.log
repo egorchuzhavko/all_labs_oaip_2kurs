@@ -1,0 +1,4 @@
+﻿  z1.cpp
+D:\labs ОАиП\lab15\lab15\z1.cpp(41,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs ОАиП\lab15\lab15\z1.cpp(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab15.vcxproj -> D:\labs ОАиП\lab15\Debug\lab15.exe

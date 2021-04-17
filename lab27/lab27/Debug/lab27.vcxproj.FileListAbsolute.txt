@@ -1,0 +1,4 @@
+D:\study\labs ОАиП\lab27\lab27\Debug\lab27.vcxprojAssemblyReference.cache
+D:\study\labs ОАиП\lab27\lab27\Debug\lab27.MyForm.resources
+D:\study\labs ОАиП\lab27\lab27\Debug\lab27.vcxproj.GenerateResource.cache
+D:\study\labs ОАиП\lab27\lab27\Debug\lab27.SecondForm.resources

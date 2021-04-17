@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+D:\study\labs ОАиП\lab29\lab29\MyForm.h(248): warning C4309: инициализация: усечение константного значения
+D:\study\labs ОАиП\lab29\lab29\MyForm.h(248): message : Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::_Document " из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+D:\study\labs ОАиП\lab29\lab29\MyForm.h(248): message : Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::Document " из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+D:\study\labs ОАиП\lab29\lab29\MyForm.h(265): warning C4309: инициализация: усечение константного значения
+D:\study\labs ОАиП\lab29\lab29\MyForm.h(265): message : Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::Selection " из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+D:\study\labs ОАиП\lab29\lab29\MyForm.h(356,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\labs ОАиП\lab29\lab29\MyForm.h(397,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\labs ОАиП\lab29\lab29\MyForm.h(402,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\study\labs ОАиП\lab29\lab29\MyForm.h(410,34): warning C4101: e: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab29.vcxproj -> D:\study\labs ОАиП\lab29\Debug\lab29.exe

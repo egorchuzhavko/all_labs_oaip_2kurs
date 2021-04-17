@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+D:\study\labs ОАиП\lab28\lab28\MyForm.h(307,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\study\labs ОАиП\lab28\lab28\MyForm.h(307,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\study\labs ОАиП\lab28\lab28\MyForm.h(304,35): warning C4101: e: неиспользованная локальная переменная
+D:\study\labs ОАиП\lab28\lab28\MyForm.h(323,34): warning C4101: e: неиспользованная локальная переменная
+D:\study\labs ОАиП\lab28\lab28\MyForm.h(326,22): warning C4101: e: неиспользованная локальная переменная
+D:\study\labs ОАиП\lab28\lab28\MyForm.h(329,19): warning C4101: e: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab28.vcxproj -> D:\study\labs ОАиП\lab28\Debug\lab28.exe

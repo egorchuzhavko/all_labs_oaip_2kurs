@@ -1,0 +1,3 @@
+﻿  z2.cpp
+D:\labs ОАиП\lab6\z2\z2.cpp(73,12): warning C4804: <: небезопасное использование типа "bool" в операции
+  z2.vcxproj -> D:\labs ОАиП\lab6\Debug\z2.exe

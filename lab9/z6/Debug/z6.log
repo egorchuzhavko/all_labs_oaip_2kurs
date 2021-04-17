@@ -1,0 +1,6 @@
+﻿  z6.cpp
+D:\labs ОАиП\lab9\z6\z6.cpp(48,29): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\labs ОАиП\lab9\z6\z6.cpp(49,29): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\labs ОАиП\lab9\z6\z6.cpp(41,29): warning C4101: s2: неиспользованная локальная переменная
+D:\labs ОАиП\lab9\z6\z6.cpp(41,25): warning C4101: s1: неиспользованная локальная переменная
+  z6.vcxproj -> D:\labs ОАиП\lab9\Debug\z6.exe

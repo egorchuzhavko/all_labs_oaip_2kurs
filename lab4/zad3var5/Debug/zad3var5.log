@@ -1,0 +1,5 @@
+﻿  zad3var5.cpp
+D:\labs ОАиП\lab4\zad3var5\zad3var5.cpp(1,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\labs ОАиП\lab4\zad3var5\zad3var5.cpp(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\labs ОАиП\lab4\zad3var5\zad3var5.cpp(3,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  zad3var5.vcxproj -> D:\labs ОАиП\lab4\Debug\zad3var5.exe

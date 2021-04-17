@@ -1,0 +1,6 @@
+C:\Users\Xiaomi\source\repos\lab28\lab28\Debug\lab28.vcxprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\lab28\lab28\Debug\lab28.MyForm.resources
+C:\Users\Xiaomi\source\repos\lab28\lab28\Debug\lab28.vcxproj.GenerateResource.cache
+D:\study\labs ОАиП\lab28\lab28\Debug\lab28.vcxprojAssemblyReference.cache
+D:\study\labs ОАиП\lab28\lab28\Debug\lab28.MyForm.resources
+D:\study\labs ОАиП\lab28\lab28\Debug\lab28.vcxproj.GenerateResource.cache
